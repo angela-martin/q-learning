@@ -1,0 +1,11 @@
+Webots Project File version R2022a
+perspectives: 000000ff00000000fd00000002000000010000029c000001ddfc0200000001fb0000001400540065007800740045006400690074006f00720100000016000001dd0000008900ffffff0000000300000556000000befc0100000001fb0000001a0043006f006e0073006f006c00650041006c006c0041006c006c0100000000000005560000006900ffffff000002b8000001dd00000001000000020000000100000008fc00000000
+simulationViewPerspectives: 000000ff0000000100000002000000fa000001f10100000002010000000100
+sceneTreePerspectives: 000000ff000000010000000200000097000000fa0100000002010000000200
+maximizedDockId: -1
+centralWidgetVisible: 1
+orthographicViewHeight: 1
+textFiles: 2 "../../../../../../../snap/webots/20/usr/share/webots/projects/robots/k-team/khepera4/controllers/khepera4/khepera4.c" "../../P2/p2/controllers/odometria/odometria.py" "controllers/control_p3/control_p3.py"
+globalOptionalRendering: PenPaintingRays
+consoles: Console:All:All
+renderingDevicePerspectives: Khepera IV:camera;0;0.590426;0;0
